@@ -1,0 +1,42 @@
+{
+  "name": "kivotos-pick-cn",
+  "version": "0.1.0",
+  "private": true,
+  "description": "蔚蓝档案「学院最爱学生」选择器 —— 国内可访问的简体中文镜像复刻",
+  "scripts": {
+    "fetch:data": "node scripts/fetch-schaledb-data.mjs",
+    "align": "node scripts/align-target.mjs",
+    "fetch:assets": "node scripts/fetch-assets.mjs",
+    "build:data": "node scripts/build-students.mjs",
+    "prepare:all": "npm run fetch:data && npm run align && npm run fetch:assets && npm run build:data",
+    "dev": "next dev",
+    "build": "next build",
+    "preview": "node scripts/serve-out.mjs 4173",
+    "verify": "node scripts/verify-ui.mjs",
+    "verify:mobile": "node scripts/verify-mobile.mjs",
+    "verify:parity": "node scripts/verify-export-parity.mjs",
+    "verify:pages": "node scripts/verify-basepath.mjs",
+    "verify:live": "node scripts/verify-live.mjs",
+    "verify:docs": "node scripts/verify-readme.mjs",
+    "verify:storage": "node scripts/verify-storage.mjs",
+    "verify:persist": "node scripts/verify-persistence.mjs",
+    "verify:hydrate": "node scripts/verify-hydration.mjs",
+    "start": "next start"
+  },
+  "dependencies": {
+    "html-to-image": "^1.11.13",
+    "next": "^16.3.6",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "pixelmatch": "^7.2.0",
+    "playwright": "^1.63.0",
+    "pngjs": "^7.0.0",
+    "typescript": "^5.9.0",
+    "undici": "^8.11.2"
+  }
+}

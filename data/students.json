@@ -1,0 +1,3509 @@
+{
+  "generatedAt": "2026-09-29T13:39:52.060Z",
+  "generatedDate": "2026/09/29",
+  "source": {
+    "data": "https://schaledb.com/data/cn/students.min.json",
+    "icons": "https://schaledb.com/images/student/icon/{id}.webp",
+    "npcIcons": "https://blue-archive-pick.vercel.app/assets/students/{slug}.webp",
+    "note": "《蔚蓝档案》学生资料与头像版权归 Nexon 所有。本页为非官方同人镜像，仅供交流。"
+  },
+  "stats": {
+    "total": 200,
+    "base": 144,
+    "npc": 56,
+    "skinTotal": 327,
+    "extraSkins": 127,
+    "variantSkins": 127,
+    "variantOnlyCharacters": 0,
+    "duplicateFormsDropped": 1,
+    "droppedDuplicates": 1,
+    "terrorSplit": 1,
+    "collabExcluded": 4
+  },
+  "academies": [
+    {
+      "id": "abydos",
+      "name": "阿拜多斯高中",
+      "short": "阿拜多斯",
+      "emblem": "/assets/schools/abydos.png",
+      "accent": "#2ba9d9",
+      "count": 7
+    },
+    {
+      "id": "gehenna",
+      "name": "格黑娜学园",
+      "short": "格黑娜",
+      "emblem": "/assets/schools/gehenna.png",
+      "accent": "#d95655",
+      "count": 27
+    },
+    {
+      "id": "millennium",
+      "name": "千年科学学园",
+      "short": "千年",
+      "emblem": "/assets/schools/millennium.png",
+      "accent": "#4d8bdb",
+      "count": 27
+    },
+    {
+      "id": "trinity",
+      "name": "三一综合学园",
+      "short": "三一",
+      "emblem": "/assets/schools/trinity.png",
+      "accent": "#d9a73f",
+      "count": 26
+    },
+    {
+      "id": "arius",
+      "name": "阿里乌斯分校",
+      "short": "阿里乌斯",
+      "emblem": "/assets/schools/arius.png",
+      "accent": "#5b6473",
+      "count": 6
+    },
+    {
+      "id": "hyakkiyako",
+      "name": "百鬼夜行联合学园",
+      "short": "百鬼夜行",
+      "emblem": "/assets/schools/hyakkiyako.png",
+      "accent": "#d95f92",
+      "count": 24
+    },
+    {
+      "id": "shanhaijing",
+      "name": "山海经高级中学",
+      "short": "山海经",
+      "emblem": "/assets/schools/shanhaijing.png",
+      "accent": "#3b9f72",
+      "count": 13
+    },
+    {
+      "id": "redwinter",
+      "name": "红冬联邦学园",
+      "short": "红冬",
+      "emblem": "/assets/schools/redwinter.png",
+      "accent": "#be4d67",
+      "count": 13
+    },
+    {
+      "id": "valkyrie",
+      "name": "瓦尔基里警察学校",
+      "short": "瓦尔基里",
+      "emblem": "/assets/schools/valkyrie.png",
+      "accent": "#7789a8",
+      "count": 5
+    },
+    {
+      "id": "srt",
+      "name": "SRT特殊学园",
+      "short": "SRT",
+      "emblem": "/assets/schools/srt.png",
+      "accent": "#5a84a9",
+      "count": 8
+    },
+    {
+      "id": "highlander",
+      "name": "海兰德铁道学园",
+      "short": "海兰德",
+      "emblem": "/assets/schools/highlander.png",
+      "accent": "#489378",
+      "count": 4
+    },
+    {
+      "id": "wildhunt",
+      "name": "狂猎艺术学园",
+      "short": "狂猎",
+      "emblem": "/assets/schools/wildhunt.png",
+      "accent": "#845e9f",
+      "count": 10
+    },
+    {
+      "id": "odyssey",
+      "name": "奥德赛海洋学校",
+      "short": "奥德赛",
+      "emblem": "/assets/schools/odyssey.png",
+      "accent": "#4e92b0",
+      "count": 10
+    },
+    {
+      "id": "other",
+      "name": "其他 · 无归属",
+      "short": "其他",
+      "emblem": "/assets/schools/other.png",
+      "accent": "#6983a2",
+      "count": 11
+    },
+    {
+      "id": "gsc",
+      "name": "学生总会",
+      "short": "学生总会",
+      "emblem": "/assets/schools/gsc.png",
+      "accent": "#4c6781",
+      "count": 9
+    }
+  ],
+  "students": [
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gehenna",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gehenna",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "trinity",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gehenna",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "abydos",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gehenna",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gehenna",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "abydos",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "shanhaijing",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "trinity",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "hyakkiyako",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gehenna",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "trinity",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "abydos",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gehenna",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gehenna",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gehenna",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "abydos",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "hyakkiyako",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gehenna",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "trinity",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "hyakkiyako",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "shanhaijing",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "trinity",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gehenna",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "trinity",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "abydos",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gehenna",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gehenna",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "trinity",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "trinity",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "trinity",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "trinity",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "hyakkiyako",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "hyakkiyako",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "redwinter",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "redwinter",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "trinity",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "trinity",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "trinity",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "valkyrie",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "trinity",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "trinity",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gehenna",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "redwinter",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "hyakkiyako",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "valkyrie",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gehenna",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "hyakkiyako",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "trinity",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "trinity",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "redwinter",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "srt",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "srt",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "srt",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "hyakkiyako",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gehenna",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "hyakkiyako",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "hyakkiyako",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "arius",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "arius",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "arius",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "arius",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "srt",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "trinity",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "shanhaijing",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "redwinter",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "trinity",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "trinity",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gehenna",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "valkyrie",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "trinity",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "trinity",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "hyakkiyako",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "trinity",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "shanhaijing",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "shanhaijing",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "redwinter",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "redwinter",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "redwinter",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "trinity",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gehenna",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "hyakkiyako",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "hyakkiyako",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "hyakkiyako",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gehenna",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gehenna",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "hyakkiyako",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gehenna",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "shanhaijing",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "shanhaijing",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gehenna",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gehenna",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "trinity",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "highlander",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "highlander",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "highlander",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "hyakkiyako",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "hyakkiyako",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "wildhunt",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "wildhunt",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "wildhunt",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "wildhunt",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "wildhunt",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "trinity",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "arius",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "redwinter",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "redwinter",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "valkyrie",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "wildhunt",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "srt",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "srt",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "srt",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gehenna",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "odyssey",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "odyssey",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "redwinter",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "redwinter",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "abydos",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "other",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "other",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gsc",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gsc",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gsc",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gsc",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gsc",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gsc",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gsc",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gsc",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gsc",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "other",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "other",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "other",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "other",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "other",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "other",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "other",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "other",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "other",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "shanhaijing",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "shanhaijing",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "shanhaijing",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "hyakkiyako",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "hyakkiyako",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "hyakkiyako",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "hyakkiyako",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "hyakkiyako",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "hyakkiyako",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "hyakkiyako",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "odyssey",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "odyssey",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "odyssey",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "odyssey",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "odyssey",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "odyssey",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "odyssey",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "odyssey",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "wildhunt",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "wildhunt",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "wildhunt",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "wildhunt",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gehenna",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gehenna",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "gehenna",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "arius",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "valkyrie",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "srt",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "highlander",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "redwinter",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "abydos",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "shanhaijing",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "shanhaijing",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "shanhaijing",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.webp",
+          "isBase": true
+        }
+      ]
+    }
+  ]
+}
