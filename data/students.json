@@ -25,7 +25,7 @@
       "id": "abydos",
       "name": "阿拜多斯高中",
       "short": "阿拜多斯",
-      "emblem": "/assets/schools/abydos.png",
+      "emblem": "/assets/schools/abydos.jpg",
       "accent": "#2ba9d9",
       "count": 7
     },
@@ -33,7 +33,7 @@
       "id": "gehenna",
       "name": "格黑娜学园",
       "short": "格黑娜",
-      "emblem": "/assets/schools/gehenna.png",
+      "emblem": "/assets/schools/gehenna.jpg",
       "accent": "#d95655",
       "count": 27
     },
@@ -41,7 +41,7 @@
       "id": "millennium",
       "name": "千年科学学园",
       "short": "千年",
-      "emblem": "/assets/schools/millennium.png",
+      "emblem": "/assets/schools/millennium.jpg",
       "accent": "#4d8bdb",
       "count": 27
     },
@@ -49,7 +49,7 @@
       "id": "trinity",
       "name": "三一综合学园",
       "short": "三一",
-      "emblem": "/assets/schools/trinity.png",
+      "emblem": "/assets/schools/trinity.jpg",
       "accent": "#d9a73f",
       "count": 26
     },
@@ -57,7 +57,7 @@
       "id": "arius",
       "name": "阿里乌斯分校",
       "short": "阿里乌斯",
-      "emblem": "/assets/schools/arius.png",
+      "emblem": "/assets/schools/arius.jpg",
       "accent": "#5b6473",
       "count": 6
     },
@@ -65,7 +65,7 @@
       "id": "hyakkiyako",
       "name": "百鬼夜行联合学园",
       "short": "百鬼夜行",
-      "emblem": "/assets/schools/hyakkiyako.png",
+      "emblem": "/assets/schools/hyakkiyako.jpg",
       "accent": "#d95f92",
       "count": 24
     },
@@ -73,7 +73,7 @@
       "id": "shanhaijing",
       "name": "山海经高级中学",
       "short": "山海经",
-      "emblem": "/assets/schools/shanhaijing.png",
+      "emblem": "/assets/schools/shanhaijing.jpg",
       "accent": "#3b9f72",
       "count": 13
     },
@@ -81,7 +81,7 @@
       "id": "redwinter",
       "name": "红冬联邦学园",
       "short": "红冬",
-      "emblem": "/assets/schools/redwinter.png",
+      "emblem": "/assets/schools/redwinter.jpg",
       "accent": "#be4d67",
       "count": 13
     },
@@ -89,7 +89,7 @@
       "id": "valkyrie",
       "name": "瓦尔基里警察学校",
       "short": "瓦尔基里",
-      "emblem": "/assets/schools/valkyrie.png",
+      "emblem": "/assets/schools/valkyrie.jpg",
       "accent": "#7789a8",
       "count": 5
     },
@@ -97,7 +97,7 @@
       "id": "srt",
       "name": "SRT特殊学园",
       "short": "SRT",
-      "emblem": "/assets/schools/srt.png",
+      "emblem": "/assets/schools/srt.jpg",
       "accent": "#5a84a9",
       "count": 8
     },
@@ -105,7 +105,7 @@
       "id": "highlander",
       "name": "海兰德铁道学园",
       "short": "海兰德",
-      "emblem": "/assets/schools/highlander.png",
+      "emblem": "/assets/schools/highlander.jpg",
       "accent": "#489378",
       "count": 4
     },
@@ -113,7 +113,7 @@
       "id": "wildhunt",
       "name": "狂猎艺术学园",
       "short": "狂猎",
-      "emblem": "/assets/schools/wildhunt.png",
+      "emblem": "/assets/schools/wildhunt.jpg",
       "accent": "#845e9f",
       "count": 10
     },
@@ -121,7 +121,7 @@
       "id": "odyssey",
       "name": "奥德赛海洋学校",
       "short": "奥德赛",
-      "emblem": "/assets/schools/odyssey.png",
+      "emblem": "/assets/schools/odyssey.jpg",
       "accent": "#4e92b0",
       "count": 10
     },
@@ -129,7 +129,7 @@
       "id": "other",
       "name": "其他 · 无归属",
       "short": "其他",
-      "emblem": "/assets/schools/other.png",
+      "emblem": "/assets/schools/other.jpg",
       "accent": "#6983a2",
       "count": 11
     },
@@ -137,7 +137,7 @@
       "id": "gsc",
       "name": "学生总会",
       "short": "学生总会",
-      "emblem": "/assets/schools/gsc.png",
+      "emblem": "/assets/schools/gsc.jpg",
       "accent": "#4c6781",
       "count": 9
     }
@@ -151,19 +151,19 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -176,19 +176,19 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -201,19 +201,19 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -226,13 +226,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -245,19 +245,19 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -270,19 +270,19 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -295,13 +295,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -314,13 +314,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -333,19 +333,19 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -358,19 +358,19 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -383,19 +383,19 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -408,19 +408,19 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -433,13 +433,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -452,13 +452,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -471,19 +471,19 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -496,13 +496,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -515,13 +515,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -534,19 +534,19 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -559,13 +559,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -578,19 +578,19 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -603,19 +603,19 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -628,13 +628,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -647,19 +647,19 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -672,13 +672,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -691,19 +691,19 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -716,19 +716,19 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -741,19 +741,19 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -766,13 +766,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -785,13 +785,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -804,13 +804,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -823,13 +823,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -842,19 +842,19 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -867,13 +867,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -886,13 +886,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -905,13 +905,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -924,13 +924,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -943,13 +943,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -962,13 +962,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -981,13 +981,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1000,13 +1000,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1019,13 +1019,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1038,13 +1038,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1057,13 +1057,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1076,7 +1076,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -1089,13 +1089,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1108,13 +1108,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1127,13 +1127,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1146,13 +1146,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1165,38 +1165,19 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
-          "isBase": false
-        }
-      ]
-    },
-    {
-      "id": "npc-malkuth.webp",
-      "name": "马尔库特",
-      "academyId": "millennium",
-      "skins": [
-        {
-          "id": "npc-malkuth.webp",
-          "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
-          "isBase": true
-        },
-        {
-          "id": "npc-malkuth.webp",
-          "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1209,13 +1190,32 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "millennium",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.jpg",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1228,13 +1228,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1247,13 +1247,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1266,38 +1266,19 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
-          "isBase": false
-        }
-      ]
-    },
-    {
-      "id": "npc-malkuth.webp",
-      "name": "马尔库特",
-      "academyId": "trinity",
-      "skins": [
-        {
-          "id": "npc-malkuth.webp",
-          "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
-          "isBase": true
-        },
-        {
-          "id": "npc-malkuth.webp",
-          "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1310,13 +1291,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1329,13 +1310,32 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
+          "isBase": false
+        }
+      ]
+    },
+    {
+      "id": "npc-malkuth.webp",
+      "name": "马尔库特",
+      "academyId": "trinity",
+      "skins": [
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.jpg",
+          "isBase": true
+        },
+        {
+          "id": "npc-malkuth.webp",
+          "name": "马尔库特",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1348,13 +1348,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1367,13 +1367,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1386,19 +1386,19 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1411,13 +1411,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1430,13 +1430,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1449,13 +1449,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1468,13 +1468,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1487,13 +1487,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1506,7 +1506,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -1519,13 +1519,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1538,13 +1538,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1557,13 +1557,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1576,13 +1576,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1595,13 +1595,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1614,13 +1614,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1633,13 +1633,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1652,7 +1652,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -1665,13 +1665,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1684,13 +1684,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1703,13 +1703,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1722,13 +1722,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1741,13 +1741,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1760,13 +1760,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1779,19 +1779,19 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1804,13 +1804,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1823,13 +1823,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1842,7 +1842,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -1855,13 +1855,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1874,13 +1874,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1893,13 +1893,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1912,13 +1912,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1931,13 +1931,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1950,7 +1950,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -1963,13 +1963,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -1982,13 +1982,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -2001,19 +2001,19 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -2026,13 +2026,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -2045,13 +2045,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -2064,7 +2064,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2077,13 +2077,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -2096,7 +2096,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2109,7 +2109,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2122,7 +2122,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2135,7 +2135,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2148,7 +2148,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2161,13 +2161,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -2180,13 +2180,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -2199,13 +2199,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -2218,13 +2218,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -2237,13 +2237,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -2256,13 +2256,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -2275,13 +2275,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -2294,7 +2294,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2307,7 +2307,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2320,7 +2320,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2333,13 +2333,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -2352,13 +2352,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -2371,13 +2371,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -2390,13 +2390,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -2409,13 +2409,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -2428,7 +2428,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2441,7 +2441,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2454,7 +2454,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2467,7 +2467,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2480,13 +2480,13 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         },
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": false
         }
       ]
@@ -2499,7 +2499,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2512,7 +2512,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2525,7 +2525,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2538,7 +2538,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2551,7 +2551,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2564,7 +2564,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2577,7 +2577,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2590,7 +2590,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2603,7 +2603,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2616,7 +2616,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2629,7 +2629,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2642,7 +2642,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2655,7 +2655,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2668,7 +2668,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2681,7 +2681,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2694,7 +2694,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2707,7 +2707,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2720,7 +2720,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2733,7 +2733,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2746,7 +2746,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2759,7 +2759,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2772,7 +2772,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2785,7 +2785,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2798,7 +2798,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2811,7 +2811,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2824,7 +2824,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2837,7 +2837,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2850,7 +2850,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2863,7 +2863,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2876,7 +2876,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2889,7 +2889,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2902,7 +2902,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2915,7 +2915,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2928,7 +2928,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2941,7 +2941,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2954,7 +2954,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2967,7 +2967,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2980,7 +2980,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -2993,7 +2993,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3006,7 +3006,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3019,7 +3019,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3032,7 +3032,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3045,7 +3045,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3058,7 +3058,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3071,7 +3071,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3084,7 +3084,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3097,7 +3097,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3110,7 +3110,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3123,7 +3123,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3136,7 +3136,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3149,7 +3149,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3162,7 +3162,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3175,7 +3175,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3188,7 +3188,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3201,7 +3201,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3214,7 +3214,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3227,7 +3227,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3240,7 +3240,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3253,7 +3253,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3266,7 +3266,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3279,7 +3279,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3292,7 +3292,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3305,7 +3305,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3318,7 +3318,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3331,7 +3331,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3344,7 +3344,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3357,7 +3357,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3370,7 +3370,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3383,7 +3383,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3396,7 +3396,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3409,7 +3409,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3422,7 +3422,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3435,7 +3435,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3448,7 +3448,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3461,7 +3461,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3474,7 +3474,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3487,7 +3487,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
@@ -3500,7 +3500,7 @@
         {
           "id": "npc-malkuth.webp",
           "name": "马尔库特",
-          "icon": "/assets/students/npc-malkuth.webp",
+          "icon": "/assets/students/npc-malkuth.jpg",
           "isBase": true
         }
       ]
