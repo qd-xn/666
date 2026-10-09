@@ -82,6 +82,25 @@ const dataUrlToBlob = (dataUrl: string): Blob => {
 };
 
 export default function FavoriteStudentsPage() {
+  const audioRef = useRef<HTMLAudioElement | null>(null);
+
+  useEffect(() => {
+    const audio = new Audio('/music/bgm.mp3');
+    audio.loop = true;
+    audioRef.current = audio;
+
+    function playOnFirstInteraction() {
+      if (audioRef.current) {
+        audioRef.current.play().catch(() => {});
+        document.removeEventListener('click', playOnFirstInteraction);
+        document.removeEventListener('touchstart', playOnFirstInteraction);
+      }
+    }
+
+    document.addEventListener('click', playOnFirstInteraction);
+    document.addEventListener('touchstart', playOnFirstInteraction, { passive: true });
+  }, []);
+
   const [slots, setSlots] = useState<Slots>(emptySlots);
   const [teacher, setTeacher] = useState('');
   const [query, setQuery] = useState('');

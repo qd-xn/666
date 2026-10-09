@@ -1,6 +1,10 @@
+'use client';
+
 import Link from 'next/link';
 import { studentsData } from '@/lib/students-data';
 import styles from './page.module.css';
+import { useRouter } from 'next/navigation';
+import { useRef, useEffect } from 'react';
 
 const MODES = [
   {
@@ -27,6 +31,21 @@ const MODES = [
 ];
 
 export default function HomePage() {
+  const router = useRouter();
+  const audioRef = useRef<HTMLAudioElement | null>(null);
+
+  useEffect(() => {
+    audioRef.current = new Audio('/bgm.mp3');
+    audioRef.current.loop = true;
+  }, []);
+
+  const handleGo = (href: string) => {
+    if (audioRef.current) {
+      audioRef.current.play().catch(() => {});
+    }
+    router.push(href);
+  };
+
   return (
     <main className={styles.page}>
       <header className={styles.hero}>
@@ -43,12 +62,17 @@ export default function HomePage() {
       <section className={styles.grid}>
         {MODES.map((m) =>
           m.available ? (
-            <Link key={m.href} href={m.href} className={styles.card}>
+            <button
+              key={m.href}
+              className={styles.card}
+              onClick={() => handleGo(m.href)}
+              type="button"
+            >
               <span className={styles.cardLabel}>{m.label}</span>
               <h2>{m.title}</h2>
               <p>{m.desc}</p>
               <span className={styles.go}>开始 →</span>
-            </Link>
+            </button>
           ) : (
             <div key={m.href} className={`${styles.card} ${styles.cardSoon}`}>
               <span className={styles.cardLabel}>{m.label}</span>
